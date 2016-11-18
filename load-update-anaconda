@@ -1,0 +1,3 @@
+pip install
+conda update conda
+conda update ipython
